@@ -1,0 +1,34 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--  Titles  -->
+    <string name="app_name">Coffee Order</string>
+    <string name="toppings">Toppings</string>
+    <string name="title_quantity">Quantity</string>
+
+    <!--    checkboxes -->
+    <string name="checkbox_whipped_cream">Whipped cream ($1)</string>
+    <string name="checkbox_chocolate">Chocolate  ($2)</string>
+
+    <!--    inputs -->
+    <string name="input_enter_full_name">Enter you full name.</string>
+    <string name="button_order">Order</string>
+
+    <!--    email -->
+    <string name="email_subject">Coffee order - <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <!--    order summary -->
+    <string name="summary_client_full_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <string name="summary_whipped_cream_yes">Add whipped cream? Yes</string>
+    <string name="summary_whipped_cream_no">Add whipped cream? No</string>
+
+    <string name="summary_chocolate_yes">Add chocolate? Yes</string>
+    <string name="summary_chocolate_no">Add chocolate? No</string>
+
+    <string name="summary_total_cups_coffee">Total caps: <xliff:g id="total_cups" example="3">%d</xliff:g></string>
+
+    <string name="summary_total">Total: $<xliff:g id="total" example="$100">%d</xliff:g></string>
+
+    <string name="summary_thank_you">Thank you!</string>
+
+
+</resources>

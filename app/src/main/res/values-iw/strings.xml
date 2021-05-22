@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">הזמנת קפה</string>
+    <string name="title_quantity">כמות</string>
+    <string name="button_order">הזמנה</string>
+    <string name="checkbox_chocolate">שוקולד ($1)</string>
+    <string name="input_enter_full_name">שם ושם משפחה</string>
+    <string name="summary_chocolate_no">להוסיף שוקולד? לא</string>
+    <string name="summary_chocolate_yes">להוסיף שוקולד? כן</string>
+
+    <!--    email -->
+    <string name="email_subject">הזמנת קפה - <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <string name="summary_total_cups_coffee">סה"כ כוסות: <xliff:g id="total_cups" example="3">%d</xliff:g></string>
+
+    <string name="summary_thank_you">תודה!</string>
+    <string name="toppings">תוספות</string>
+    <string name="checkbox_whipped_cream">קצפת ($2)</string>
+    <string name="summary_whipped_cream_yes">להוסיף קצפת? כן</string>
+    <string name="summary_whipped_cream_no">להוסף קצפת ? לא</string>
+    <string name="summary_client_full_name">שם: <xliff:g id="name" example="חנה">%s</xliff:g></string>
+    <string name="summary_total">סה"כ: $<xliff:g id="total" example="$100">%d</xliff:g></string>
+
+</resources>
